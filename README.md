@@ -12,3 +12,7 @@
 
 #text generator
 #https://www.lipsum.com/feed/html
+
+#https://getbootstrap.com/
+
+#https://render.com/
