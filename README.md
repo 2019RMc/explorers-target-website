@@ -10,3 +10,5 @@
 #free images
 #https://unsplash.com/
 
+#text generator
+#https://www.lipsum.com/feed/html
